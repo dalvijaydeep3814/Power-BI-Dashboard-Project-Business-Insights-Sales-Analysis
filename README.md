@@ -48,7 +48,7 @@ It leverages **data modeling, DAX calculations, and visual storytelling** to pro
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard)
 
 ## 🚀 How to Use
 
